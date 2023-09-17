@@ -1,0 +1,423 @@
+{
+    "conditions": [
+        {
+            "type": "ou",
+            "patterns": ["aide", "aider"],
+            "responses": [
+                "Pour visualiser un exemple de saisie que vous pouvez effectuer, il vous suffit d'écrire 'exemple'.",
+            	"Si vous souhaitez voir un exemple d'entrée que vous pouvez saisir, il vous suffit de taper 'exemple'.",
+            	"Pour voir un exemple de saisie que vous pouvez effectuer, il vous suffit d'écrire 'exemple'."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["exemple", "exemples"],
+            "responses": [
+                "Bonjour! Je suis passionné par la technologie, surtout le développement web. Je connais le HTML, CSS et JavaScript, et j'ai déjà créé quelques sites web pour des amis.",
+            	"Ma passion pour le théâtre m'a amené à jouer dans plusieurs productions locales. Par ailleurs, je joue du piano depuis mon enfance.",
+            	"Je suis curieux au sujet du Designer UI/UX. Pouvez-vous m'en dire plus?",
+           	"J'ai une maîtrise en droit et j'ai principalement travaillé dans le domaine du droit commercial. J'ai également aidé des entreprises dans leur développement économique",
+            	"Je suis chef de projet web avec une expertise en marketing digital. J'ai également écrit plusieurs articles en tant que journaliste.",
+            	"Je joue du piano depuis mon enfance."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["programme", "projet", "projets"],
+            "responses": [
+                "Le programme consiste à faire des suggestions d'emplois disponibles en utilisant les informations récupérées sur le site de Pôle Emploi."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["fiables", "fiable", "information", "source"],
+            "responses": [
+                "Les informations du projet sont fiables et ont été mises à jour en août 2023."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["développe"],
+            "responses": [
+                "Le projet a été proposé par Aram et développé par l'ensemble d'entre nous."
+            ]
+        },
+        {
+            "type": "et",
+            "patterns": ["version", "futur"],
+            "responses": [
+                "La version future pourrait se développer en un projet du cours L3 avec l'accord de notre professeur."
+            ]
+        },
+        {
+            "type": "et",
+            "patterns": ["contenu", "projet"],
+            "responses": [
+                "Le contenu du futur projet reposera sur cette base, mais il sera considérablement développé, et il inclura également un chat plus performant."
+            ]
+        },
+        {
+            "type": "et",
+            "patterns": ["amelioration", "projet"],
+            "responses": [
+                "L'amélioration du projet vise à améliorer les suggestions et à travailler sur la vitesse de démarrage du programme, ainsi qu'à perfectionner le chatbot."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["suggestions", "suggestion"],
+            "responses": [
+                "Toutes les suggestions pour le projet seront les bienvenues et prises en considération pour les futures versions."
+            ]
+        },
+        {
+            "type": "et",
+            "patterns": ["suggestion", "projet"],
+            "responses": [
+                "Si vous souhaitez faire des suggestions pour ce projet, nous vous prions de faire une demande aux membres de notre équipe en envoyant un courrier électronique contenant vos suggestions à des fins d'examen ultérieur."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["mail", "contact"],
+            "responses": [
+                "Vous pouvez envoyer un e-mail à cette adresse : 'alain.stoicanu@etud.univ-paris8.fr'."
+            ]
+        },
+        {
+            "type": "et",
+            "patterns": ["version", "actuelle"],
+            "responses": [
+                "La version actuelle est 1.8. Si vous souhaitez en savoir plus sur les améliorations apportées, veuillez mentionner '1.8' pour obtenir tous les détails."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["version", "versions"],
+            "responses": [
+                "Le projet a été amorcé avec la première version, v1.0. À partir de cette première version, nous avons commencé à répartir les tâches afin d'améliorer l'algorithme et de corriger les erreurs de code, ainsi que les résultats incorrects. Pour obtenir une description des différentes versions, vous pouvez écrire des descriptions pour les versions v1.0, v1.1, v1.2, v1.3, v1.4, v1.5, v1.6 v1.7 et v1.8."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["participant", "participants"],
+            "responses": [
+                "Les participants sont Alain, Aram, Dayron et Mi"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["v1.0", "1.0"],
+            "responses": [
+                "La première étape de notre projet a abouti à la création de la version 1.0 de notre chatbot qui a principalement été développée par Aram. . Cette version sert de fondation solide sur laquelle nous pouvons construire notre assistance à la recherche d'emploi. La version v1.0 est la version de Base du Chatbot, Interface Simple"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["v1.1", "1.1"],
+            "responses": [
+                "Dans la version 1.1 de notre chatbot, nous avons apporté des améliorations significatives pour offrir une expérience encore plus enrichissante à nos utilisateurs. La v1.1 marque une étape importante dans l'évolution de notre chatbot. Elle offre des fonctionnalités avancées pour répondre aux besoins de nos utilisateurs et les aider à trouver leur emploi idéal."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["v1.2", "1.2"],
+            "responses": [
+                "Dans la version 1.2 de notre chatbot, nous avons fusionné le chatbot et le projet de scraping. Notre chatbot utilise les données extraites pour personnaliser les recommandations d'emploi.  La v1.2 représente un pas en avant significatif dans notre projet. L'intégration du projet de scraping renforce notre capacité à fournir des informations en temps réel et personnalisées à nos utilisateurs, ce qui les rapproche davantage de leurs objectifs professionnels."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["v1.3", "1.3"],
+            "responses": [
+                "Dans la version 1.3 de notre chatbot, nous avons concentré nos efforts sur l'optimisation des performances pour offrir une expérience utilisateur encore plus rapide et efficace. Grâce à des optimisations approfondies, notre chatbot est désormais capable de charger complètement en moins de 50 secondes.  "
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["v1.4", "1.4"],
+            "responses": [
+                "La version 1.4 de notre chatbot met en avant le travail de Dayron, en optimisations d'algorithmes. Cette mise à jour est dédiée à l'amélioration des capacités de correspondance de notre chatbot, ce qui le rend encore plus performant dans la compréhension des demandes des utilisateurs. L'une des principales améliorations réside dans la capacité du chatbot à détecter les phrases complètes ou partielles dans les requêtes des utilisateurs. Il peut ainsi répondre de manière appropriée, même si la question n'est pas formulée de manière exhaustive. La deuxième mise à jour a été réalisée par Alain sur la fonction de nettoyage en introduisant une liste de mots à exclure (stoplist), la suppression des accents et en apportant des améliorations à cette fonction."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["v1.5", "1.5"],
+            "responses": [
+                "Dans la version 1.5 de notre chatbot, nous introduisons les capacités d'identification d'entités prédéfinies et la prise en compte des messages de politesse améliorent considérablement l'interaction utilisateur. Alain a développé une entité chatbot de secours qui améliore la capacité de notre chatbot principal à reconnaître certaines entités prédéfinies. Cette entité est constituée de deux fichiers. Le premier contient l'algorithme permettant de détecter ces entités, tandis que le deuxième fichier JSON répertorie les patterns, les conditions et les types nécessaires pour identifier ces entités. Mi a apporté une mise à jour en introduisant la détection des messages de politesse des clients. Notre chatbot est désormais capable de reconnaître et de répondre aux salutations, aux remerciements et aux formules de politesse avec des réponses appropriées. Cela crée une interaction plus agréable et conviviale."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["v1.6", "1.6"],
+            "responses": [
+                "Dans la version 1.6 de notre chatbot, a apporté des améliorations essentielles à l'algorithme de l'entity chatbot, renforçant ainsi sa capacité à reconnaître et à interpréter les entités prédéfinies. Cette optimisation permet une détection plus précise et rapide des informations importantes dans les messages des utilisateurs. La base de données JSON qui stocke les patterns, les conditions et les réponses a été modifiée pour une meilleure performance. Elle est désormais organisée de manière plus efficace, ce qui permet une recherche plus rapide et une gestion plus fluide des données."
+            ]
+        },
+        {
+            "type": "et",
+            "patterns": ["v1.7", "1.7"],
+            "responses": [
+                "Dans la version 1.7 de notre projet, nous avons implémenté les tests unitaires, une contribution apportée par Mi. Cette modification a pour objectif principal de s'assurer que chaque élément fonctionne conformément à ses spécifications prévues, minimisant ainsi les probabilités d'erreurs et d'incohérences dans les réponses que notre chatbot offre à ses utilisateurs. Les tests unitaires représentent des outils de validation automatisée qui nous permettent de scruter le fonctionnement correct de chaque module et fonction du chatbot, de manière indépendante."
+            ]
+        },
+        {
+            "type": "et",
+            "patterns": ["v1.8", "1.8"],
+            "responses": [
+                "Dans la toute dernière version, la 1.8 de notre chatbot, d'importantes évolutions ont été apportées. Nous avons instauré des tests unitaires documentés, optimisé les performances du chatbot avec l'ajout d'un système de mise en cache, ce qui a conduit à une réduction de 2 à 3 minutes du temps de génération des patterns. La documentation de notre projet a été mise à jour pour fournir des informations complètes et à jour sur notre chatbot. "
+            ]
+        },
+        {
+            "type": "et",
+            "patterns": ["version", "finale"],
+            "responses": [
+                "La version finale c'est 1.8. Pour découvrir en détail ce que cette version apporte, n'hésitez pas à écrire '1.8'."
+            ]
+        },
+        {
+            "type": "et",
+            "patterns": ["version", "derniere"],
+            "responses": [
+                "La version 1.8 c'est la derniere. Pour découvrir en détail ce que cette version apporte, n'hésitez pas à écrire '1.8'."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["merci", "mercii"],
+            "responses": [
+                "De rien ! N'hésitez pas si vous avez d'autres questions."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["au revoir", "revoir", "bye", "goodbye", "ciao", "bientot", "a+"],
+            "responses": [
+                "Au revoir ! À bientôt."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["bonjour", "salut", "coucou"],
+            "responses": [
+                "Bonjour ! Comment puis-je vous aider ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["emploi", "travail"],
+            "responses": [
+                "Bien sûr, je peux vous aider dans votre recherche d'emploi. Quel type d'emploi recherchez-vous ?",
+                "Je suis là pour vous aider à trouver un emploi. Pouvez-vous me donner plus de détails sur ce que vous cherchez ?",
+                "La recherche d'emploi est une étape importante. Comment puis-je vous assister dans votre quête ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["competences", "qualification", "formation"],
+            "responses": [
+                "Les compétences et la formation sont essentielles pour trouver le bon emploi. Pouvez-vous me dire quelles sont vos compétences et votre formation ?",
+                "Pour mieux vous aider, pourriez-vous me donner des informations sur vos compétences et votre formation ?",
+                "Comprendre vos compétences et votre formation est crucial pour trouver un emploi qui vous convient. Pouvez-vous en dire plus à ce sujet ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["postuler", "candidature", "offres emploi"],
+            "responses": [
+                "Postuler à des offres d'emploi est une étape importante. Puis-je vous aider à trouver des offres d'emploi appropriées ?",
+                "La candidature à des offres d'emploi est un processus clé. Avez-vous des questions sur la façon de postuler ou sur les offres disponibles ?",
+                "Je peux vous aider à trouver des offres d'emploi et à comprendre le processus de candidature. Comment puis-je vous aider aujourd'hui ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["entretien", "entretien embauche", "preparation"],
+            "responses": [
+                "La préparation à un entretien d'embauche est cruciale. Avez-vous des questions sur la façon de vous préparer ou sur ce à quoi vous attendre lors d'un entretien ?",
+                "L'entretien d'embauche peut être stressant, mais une bonne préparation peut vous aider. Comment puis-je vous assister dans la préparation à un entretien ?",
+                "Je peux vous donner des conseils pour vous préparer à un entretien d'embauche réussi. En quoi puis-je vous aider ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["recherche entreprise", "entreprises", "secteurs"],
+            "responses": [
+                "La recherche d'entreprises et de secteurs d'activité peut vous aider à cibler vos efforts de recherche d'emploi. Avez-vous des entreprises ou des secteurs particuliers en tête ?",
+                "Trouver des entreprises et des secteurs d'activité qui correspondent à vos intérêts est important. Comment puis-je vous aider à les identifier ?",
+                "Je peux vous aider à rechercher des entreprises et des secteurs d'activité pertinents pour votre recherche d'emploi. Quels critères recherchez-vous ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["recherche salaire", "salaire", "negociation salaire"],
+            "responses": [
+                "La recherche de salaire et la négociation sont des aspects importants de la recherche d'emploi. Avez-vous des questions sur la façon de déterminer un salaire approprié ou sur la négociation de salaire ?",
+                "Comprendre les salaires et savoir comment négocier peut vous aider à obtenir la rémunération que vous méritez. En quoi puis-je vous assister dans cette démarche ?",
+                "Je peux vous fournir des informations sur la recherche de salaire et la négociation. Comment puis-je vous aider à atteindre vos objectifs de rémunération ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["conseils recherche emploi", "strategie recherche emploi"],
+            "responses": [
+                "Avez-vous besoin de conseils spécifiques sur votre stratégie de recherche d'emploi ? Je suis là pour vous aider à élaborer une approche efficace.",
+                "Une bonne stratégie de recherche d'emploi peut faire toute la différence. Comment puis-je contribuer à améliorer votre stratégie ?",
+                "Je peux vous fournir des conseils pratiques pour optimiser votre recherche d'emploi. Quels sont vos besoins actuels en matière de recherche d'emploi ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["formation continue", "developpement professionnel"],
+            "responses": [
+                "Le développement professionnel et la formation continue sont essentiels pour rester compétitif sur le marché de l'emploi. Avez-vous des questions sur la formation ou le perfectionnement de vos compétences ?",
+                "Investir dans votre développement professionnel est un choix judicieux. Comment puis-je vous aider à trouver des opportunités de formation continue ?",
+                "Je peux vous aider à explorer des options de formation continue et de développement professionnel. Quelles compétences souhaitez-vous améliorer ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["stage", "stage professionnel", "alternance"],
+            "responses": [
+                "Les stages et l'alternance sont d'excellentes opportunités pour acquérir de l'expérience professionnelle. Avez-vous des questions sur la recherche de stages ou d'opportunités en alternance ?",
+                "Les stages et l'alternance sont des étapes importantes pour développer vos compétences. Comment puis-je vous aider à trouver des opportunités ?",
+                "Je peux vous guider dans la recherche de stages et d'opportunités en alternance. Quel domaine vous intéresse ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["secteurs d'emploi", "domaines professionnels"],
+            "responses": [
+                "Les secteurs d'emploi et les domaines professionnels varient en termes d'opportunités. Quel secteur ou domaine vous intéresse le plus ?",
+                "Pour une recherche d'emploi efficace, il est important de cibler des secteurs ou domaines spécifiques. Pouvez-vous me dire quelles sont vos préférences ?",
+                "Chaque secteur d'emploi a ses particularités. Pouvez-vous me donner une idée du secteur dans lequel vous souhaitez travailler ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["experience professionnelle", "cv", "parcours professionnel"],
+            "responses": [
+                "Votre expérience professionnelle est un atout précieux. Pouvez-vous me donner un aperçu de votre CV ou de votre parcours professionnel ?",
+                "Votre CV et votre expérience jouent un rôle clé dans la recherche d'emploi. Pourriez-vous me parler davantage de votre parcours professionnel ?",
+                "Comprendre votre expérience professionnelle m'aidera à vous orienter vers des opportunités qui correspondent à votre profil. Pouvez-vous décrire votre parcours ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["objectif professionnel", "but carriere", "aspirations", "objectif"],
+            "responses": [
+                "Avoir un objectif professionnel clair est important. Pouvez-vous me dire quel est votre objectif de carrière ?",
+                "Quelles sont vos aspirations professionnelles ? Comprendre vos objectifs me permettra de mieux vous aider dans votre recherche d'emploi.",
+                "Votre objectif de carrière est un guide précieux. Pouvez-vous partager vos ambitions professionnelles avec moi ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["reseautage professionnel", "contacts industrie", "networking"],
+            "responses": [
+                "Le réseautage professionnel peut ouvrir des portes. Avez-vous des contacts dans l'industrie ou des activités de networking en cours ?",
+                "Le networking peut être un moyen efficace de trouver des opportunités d'emploi. Comment puis-je vous aider dans votre démarche de réseautage professionnel ?",
+                "Si vous avez des contacts dans l'industrie, cela peut être un atout précieux. Souhaitez-vous en savoir plus sur la façon de les exploiter pour votre recherche d'emploi ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["lettres de motivation", "redaction cv", "entretiens embauche"],
+            "responses": [
+                "La rédaction de lettres de motivation et de CV, ainsi que la préparation aux entretiens, sont des étapes clés. Avez-vous des questions à ce sujet ?",
+                "La documentation et la préparation aux entretiens sont des compétences essentielles. Comment puis-je vous aider à les développer ?",
+                "Je peux vous fournir des conseils sur la rédaction de lettres de motivation, la création de CV et la préparation aux entretiens d'embauche. En quoi puis-je vous assister ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["recherche emploi etranger", "travail international", "expatriation"],
+            "responses": [
+                "La recherche d'emploi à l'étranger comporte des défis particuliers. Avez-vous des projets d'expatriation ou de travail international ?",
+                "Travailler à l'étranger peut être une expérience enrichissante. Comment puis-je vous aider à explorer des opportunités internationales ?",
+                "Si vous envisagez de travailler à l'étranger, je peux vous fournir des informations sur le processus et les considérations à prendre en compte. Où aimeriez-vous travailler ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["jeunes diplomes", "premiere experience professionnelle", "nouveaux diplomes", "jeune diplome"],
+            "responses": [
+                "La recherche d'emploi pour les jeunes diplômés peut être passionnante. Avez-vous récemment obtenu votre diplôme ?",
+                "Félicitations pour votre diplôme ! Comment puis-je vous aider à trouver votre première expérience professionnelle ?",
+                "Si vous êtes un jeune diplômé, je peux vous donner des conseils sur la recherche d'emploi et la transition vers le monde professionnel. Quel domaine vous intéresse ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["gestion stress", "conseils bien-etre", "equilibre vie professionnelle"],
+            "responses": [
+                "La recherche d'emploi peut être stressante. Comment gérez-vous le stress lié à votre recherche d'emploi ?",
+                "Le bien-être pendant la recherche d'emploi est important. Avez-vous des questions sur la gestion du stress ou l'équilibre entre vie professionnelle et personnelle ?",
+                "Je peux vous donner des conseils sur la gestion du stress pendant la recherche d'emploi et sur la préservation de l'équilibre entre vie professionnelle et personnelle. En quoi puis-je vous être utile ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["strategie recherche", "utilisation sites emploi", "reseaux sociaux"],
+            "responses": [
+                "La recherche d'emploi en ligne est de plus en plus courante. Avez-vous des questions sur la meilleure façon d'utiliser les sites d'emploi et les réseaux sociaux professionnels ?",
+                "Les plateformes en ligne offrent de nombreuses opportunités. Comment puis-je vous aider à développer une stratégie de recherche d'emploi en ligne efficace ?",
+                "Je peux vous guider dans l'utilisation des sites d'emploi et des réseaux sociaux professionnels pour trouver des opportunités. Quels sont vos besoins spécifiques en ligne ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["parlez-moi vous", "votre role", "qui etes-vous", "vous etes qui"],
+            "responses": [
+                "Bien sûr, je suis ici pour vous aider dans votre recherche d'emploi. Pour commencer, pouvez-vous me parler de vos compétences et de votre expérience professionnelle ?",
+                "Je suis un chatbot dédié à la recherche d'emploi. Mais assez parlé de moi, parlons plutôt de vous. Pouvez-vous me dire ce que vous recherchez dans un emploi ?",
+                "Je suis là pour vous aider dans votre recherche d'emploi. Mais pour vous conseiller au mieux, j'aimerais en savoir plus sur votre profil professionnel. Pouvez-vous me donner quelques informations ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["qui est-tu", "qui tu est", "tu est qui"],
+            "responses": [
+                "Je suis là pour vous aider à trouver un emploi qui correspond à vos besoins. Pour commencer, pourriez-vous me dire quel type d'emploi vous recherchez ?",
+                "Votre succès dans la recherche d'emploi est ma priorité. Comment puis-je vous assister aujourd'hui ?",
+                "Je suis à votre service pour vous aider à atteindre vos objectifs professionnels. Comment puis-je contribuer à votre recherche d'emploi ?"
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["votre experience", "vos experiences", "votre travaille"],
+            "responses": [
+                "Je n'ai pas d'expérience professionnelle, mais je suis conçu pour vous aider à trouver des opportunités d'emploi. Dites-moi plutôt ce que je peux faire pour vous.",
+                "Je suis un chatbot créé pour aider dans la recherche d'emploi, donc je n'ai pas d'expérience professionnelle. Comment puis-je vous soutenir dans votre recherche ?",
+                "Mon expertise est dans la recherche d'emploi. Parlez-moi de votre parcours professionnel, et je ferai de mon mieux pour vous guider vers des opportunités qui vous conviennent."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["perdu", "besoin conseils ", "comment debuter"],
+            "responses": [
+                "Pas de problème, la recherche d'emploi peut être déroutante. Commencez par me parler de vos compétences et de vos préférences, et nous trouverons une direction ensemble.",
+                "Il est normal de se sentir perdu au début. Pour démarrer, parlez-moi de ce que vous aimeriez faire professionnellement, et nous élaborerons un plan ensemble.",
+                "La recherche d'emploi peut être intimidante. Expliquez-moi ce qui vous passionne et vos compétences, et nous construirons un plan pour vous aider à démarrer."
+            ]
+        },
+        {
+            "type": "ou",
+            "patterns": ["changer carriere", "reconversion professionnelle", "nouvelle orientation"],
+            "responses": [
+                "La reconversion professionnelle est une étape audacieuse. Parlez-moi de votre nouvel objectif de carrière, et nous discuterons des étapes à suivre pour y parvenir.",
+                "Changer de carrière est passionnant. Quel domaine vous attire ? Expliquez-moi vos aspirations, et nous explorerons les opportunités qui s'offrent à vous.",
+                "La reconversion professionnelle peut être enrichissante. Parlez-moi de votre nouvelle direction, et nous créerons un plan pour vous aider à atteindre votre objectif."
+            ]
+        }
+    ]
+}
+
+
+  
+    
+    
+  
+   
+
+

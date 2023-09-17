@@ -1,0 +1,2086 @@
+{
+  "M1806": {
+    "label": "Conseil et maîtrise d'ouvrage en systèmes d'information",
+    "labourMarket": {
+      "jobOffers": 64060,
+      "jobSeekers": 10040
+    },
+    "mainName": "Consultant / Consultante informatique, Product Owner",
+    "metier": {
+      "accessText": "Le métier est accessible avec un Master (M1, Master professionnel, diplôme d'ingénieur, ...) dans le secteur de l'organisation et du management des systèmes d'information, des ressources humaines, de la gestion, des finances, de la logistique, ... complété par une expérience professionnelle en conduite de projet et une connaissance des technologies des systèmes d'information.",
+      "appellations": [
+        {
+          "code": "11119",
+          "label": "Architecte fonctionnel / fonctionnelle de système d'information"
+        },
+        {
+          "code": "11288",
+          "label": "Assistant fonctionnel / Assistante fonctionnelle des systèmes d'information"
+        },
+        {
+          "code": "11298",
+          "label": "Assistant / Assistante maîtrise d'ouvrage des systèmes d'information"
+        },
+        {
+          "code": "12252",
+          "label": "Chef de projet Maîtrise d'Ouvrage - MOA des systèmes d'information"
+        },
+        {
+          "code": "13694",
+          "label": "Coordinateur / Coordinatrice projet en Maîtrise d'Ouvrage -MOA-"
+        },
+        {
+          "code": "13540",
+          "label": "Consultant / Consultante en système d'information"
+        },
+        {
+          "code": "13544",
+          "label": "Consultant fonctionnel / Consultante fonctionnelle de progiciel"
+        },
+        {
+          "code": "13546",
+          "label": "Consultant / Consultante informatique"
+        },
+        {
+          "code": "13553",
+          "label": "Consultant / Consultante réseaux informatiques"
+        },
+        {
+          "code": "14952",
+          "label": "Expert / Experte métier système d'information"
+        },
+        {
+          "code": "18835",
+          "label": "Responsable de projets « métiers » système d'information"
+        },
+        {
+          "code": "19208",
+          "label": "Responsable utilisateurs des systèmes d'information"
+        },
+        {
+          "code": "200028",
+          "label": "Product Owner"
+        },
+        {
+          "code": "12251",
+          "label": "Chef de projet maîtrise d'ouvrage des systèmes d'information"
+        },
+        {
+          "code": "12259",
+          "label": "Chef de projet utilisateurs des systèmes d'information"
+        },
+        {
+          "code": "38718",
+          "label": "Consultant / Consultante SIRH ressources humaines"
+        },
+        {
+          "code": "38719",
+          "label": "Consultant / Consultante SI finance comptabilité"
+        },
+        {
+          "code": "38746",
+          "label": "Consultant / Consultante en accessibilité numérique"
+        },
+        {
+          "code": "15321",
+          "label": "Gestionnaire d'applications système d'information"
+        },
+        {
+          "code": "200152",
+          "label": "Project Management Officer - PMO"
+        },
+        {
+          "code": "38835",
+          "label": "Consultant / Consultante SaaS - Software as a Service"
+        },
+        {
+          "code": "38978",
+          "label": "Consultant / Consultante IT"
+        },
+        {
+          "code": "38720",
+          "label": "Consultant / Consultante SI CRM/GRC Customer Relationship Management - Gestion de la Relation Client"
+        },
+        {
+          "code": "13677",
+          "label": "Coordinateur / Coordinatrice de la Maîtrise d'ouvrage des systèmes d'information"
+        },
+        {
+          "code": "16316",
+          "label": "Maître / Maîtresse d'ouvrage système d'information"
+        },
+        {
+          "code": "20493",
+          "label": "Urbaniste des systèmes d'information"
+        },
+        {
+          "code": "13542",
+          "label": "Consultant / Consultante ERP - Enterprise Resource Planning"
+        },
+        {
+          "code": "13545",
+          "label": "Consultant fonctionnel / Consultante fonctionnelle des systèmes d'information"
+        },
+        {
+          "code": "38662",
+          "label": "Consultant / Consultante décisionnel - Business Intelligence"
+        }
+      ],
+      "description": "Traduit les besoins fonctionnels d'un système d'information d'un commanditaire, selon les objectifs du domaine métier (comptable, ressources humaines, logistique, commercial, production...) et les contraintes économiques et logistiques.\\nNégocie avec les informaticiens les composantes d'une application et d'un outil logiciel, tout au long de la conception et de la réalisation, dans l'intérêt de l'entreprise et des utilisateurs finaux.\\nAssiste la maîtrise d'ouvrage dans la définition des besoins, des solutions à mettre en oeuvre et leurs intégrations dans le système d'information de l'entreprise. Participe à des projets de mise en oeuvre de système d'information (implémentation).\\nPeut superviser un projet maîtrise d'ouvrage.",
+      "domain": {
+        "label": "Informatique, internet et télécommunication",
+        "labelUrl": "informatique-internet-et-telecommunication",
+        "meta": "Vous disposez d'une forte appétence pour le numérique et vous êtes à l'aise avec les nouvelles technologies ? Découvrez les métiers de l'informatique, d'internet et des télécoms et enclenchez votre reconversion professionnelle !",
+        "title": "Métiers de l'informatique, internet et télécommunication"
+      },
+      "label": "Conseil et maîtrise d'ouvrage en systèmes d'information",
+      "mainName": "Consultant / Consultante informatique, Product Owner",
+      "romeCode": "M1806",
+      "videoUrl": "https://www.youtube.com/embed/c8zVqIBZXY4"
+    },
+    "relatedJobs": [
+      {
+        "label": "Direction des systèmes d'information",
+        "romeCode": "M1803"
+      },
+      {
+        "label": "Expertise et support en systèmes d'information",
+        "romeCode": "M1802"
+      },
+      {
+        "label": "Direction de grande entreprise ou d'établissement public",
+        "romeCode": "M1301"
+      },
+      {
+        "label": "Direction de petite ou moyenne entreprise",
+        "romeCode": "M1302"
+      },
+      {
+        "label": "Études et développement de réseaux de télécoms",
+        "romeCode": "M1804"
+      }
+    ],
+    "romeCode": "M1806",
+    "skills": {
+      "domainsSkills": [
+        {
+          "label": "Communication, Création, Innovation, Nouvelles technologies",
+          "score": 33,
+          "stakes": [
+            {
+              "code": "8",
+              "hardSkills": [
+                {
+                  "label": "Communiquer à l'oral en langue étrangère"
+                },
+                {
+                  "label": "Communiquer à l'écrit en langue étrangère"
+                },
+                {
+                  "label": "Communiquer auprès de ses clients internes et externes"
+                },
+                {
+                  "label": "Concevoir des supports de communication et d'image"
+                }
+              ],
+              "label": "Communication, Multimédia"
+            },
+            {
+              "code": "10",
+              "hardSkills": [
+                {
+                  "label": "Structurer, synthétiser des informations"
+                },
+                {
+                  "label": "Mener et exploiter une analyse stratégique"
+                },
+                {
+                  "label": "Rédiger un cahier des charges, des spécifications techniques"
+                }
+              ],
+              "label": "Traitement de l'information et des données"
+            },
+            {
+              "code": "12",
+              "hardSkills": [
+                {
+                  "label": "Élaborer des solutions techniques et fonctionnelles"
+                },
+                {
+                  "label": "Réaliser des études d'urbanisme des systèmes d'information de l'entreprise"
+                },
+                {
+                  "label": "Déployer, intégrer un logiciel, un système d'informations, une application"
+                },
+                {
+                  "label": "Participer à la mise en place d'un Progiciel de Gestion Intégré (PGI)"
+                },
+                {
+                  "label": "Procéder aux phases de tests et de recettes des applications développées"
+                },
+                {
+                  "label": "Concevoir l'architecture d'un système, d'un réseau"
+                },
+                {
+                  "label": "Déterminer l'opportunité de l'intégration d'outils IA/Data Science dans le modèle d'affaires"
+                }
+              ],
+              "label": "Nouvelles technologies"
+            }
+          ]
+        },
+        {
+          "label": "Pilotage, Gestion, Cadre réglementaire",
+          "score": 21,
+          "stakes": [
+            {
+              "code": "23",
+              "hardSkills": [
+                {
+                  "label": "Expliquer et faire respecter les règles et procédures "
+                },
+                {
+                  "label": "Établir, mettre à jour un dossier, une base de données"
+                },
+                {
+                  "label": "Contrôler la conformité des données ou des documents"
+                },
+                {
+                  "label": "Rédiger un rapport, un compte rendu d'activité"
+                },
+                {
+                  "label": "Assurer la gestion administrative et financière d'une activité"
+                }
+              ],
+              "label": "Gestion administrative"
+            },
+            {
+              "code": "24",
+              "hardSkills": [
+                {
+                  "label": "Estimer les coûts et les délais d'une activité ou d'une prestation"
+                },
+                {
+                  "label": "Contrôler la réalisation et les coûts d’une prestation "
+                },
+                {
+                  "label": "Élaborer une stratégie d'achat, optimiser la procédure d'achat"
+                }
+              ],
+              "label": "Pilotage et maîtrise des coûts"
+            },
+            {
+              "code": "25",
+              "hardSkills": [
+                {
+                  "label": "Gérer un budget d'investissement"
+                }
+              ],
+              "label": "Gestion et contrôle"
+            }
+          ]
+        },
+        {
+          "label": "Collaboration, Management, Social, Soin",
+          "score": 19,
+          "stakes": [
+            {
+              "code": "1",
+              "hardSkills": [
+                {
+                  "label": "Convaincre, négocier"
+                }
+              ],
+              "label": "Collaboration"
+            },
+            {
+              "code": "3",
+              "hardSkills": [
+                {
+                  "label": "Préparer et animer une réunion, un groupe de travail, un atelier"
+                }
+              ],
+              "label": "Animation"
+            },
+            {
+              "code": "4",
+              "hardSkills": [
+                {
+                  "label": "Animer, coordonner une équipe"
+                },
+                {
+                  "label": "Allouer et organiser les ressources d'un projet selon les besoins et contraintes"
+                }
+              ],
+              "label": "Management"
+            },
+            {
+              "code": "5",
+              "hardSkills": [
+                {
+                  "label": "Mettre en oeuvre les actions de transformation nécessaires aux changements"
+                },
+                {
+                  "label": "Gérer les ressources humaines"
+                },
+                {
+                  "label": "Analyser les processus métier"
+                }
+              ],
+              "label": "Gestion des Ressources Humaines"
+            },
+            {
+              "code": "6",
+              "hardSkills": [
+                {
+                  "label": "Transmettre une technique, un savoir-faire"
+                }
+              ],
+              "label": "Conseil, Transmission"
+            }
+          ]
+        },
+        {
+          "label": "Développement économique",
+          "score": 17,
+          "stakes": [
+            {
+              "code": "29",
+              "hardSkills": [
+                {
+                  "label": "Recenser les besoins du commanditaire"
+                }
+              ],
+              "label": "Relation client"
+            },
+            {
+              "code": "30",
+              "hardSkills": [
+                {
+                  "label": "Présenter les évolutions du système d'information au commanditaire"
+                },
+                {
+                  "label": "Élaborer, adapter une proposition commerciale"
+                },
+                {
+                  "label": "Répondre à un appel d'offre"
+                }
+              ],
+              "label": "Développement commercial"
+            },
+            {
+              "code": "31",
+              "hardSkills": [
+                {
+                  "label": "Concevoir et gérer un projet"
+                },
+                {
+                  "label": "Piloter la gestion de la production, de l'exploitation"
+                },
+                {
+                  "label": "Définir la stratégie des systèmes d'informations"
+                }
+              ],
+              "label": "Stratégie de développement"
+            }
+          ]
+        },
+        {
+          "label": "Production, Construction, Qualité, Logistique",
+          "score": 10,
+          "stakes": [
+            {
+              "code": "14",
+              "hardSkills": [
+                {
+                  "label": "Mettre en oeuvre des préconisations fonctionnelles et techniques"
+                }
+              ],
+              "label": "Production, Fabrication"
+            },
+            {
+              "code": "18",
+              "hardSkills": [
+                {
+                  "label": "Évaluer les risques SIC (système information et communication)"
+                },
+                {
+                  "label": "Concevoir et maintenir un système de cybersécurité"
+                },
+                {
+                  "label": "Piloter la gestion des risques"
+                }
+              ],
+              "label": "Prévention des risques"
+            }
+          ]
+        }
+      ],
+      "knowledgeCategories": [
+        {
+          "knowledges": [
+            {
+              "label": "Comptabilité générale"
+            },
+            {
+              "label": "Finance"
+            },
+            {
+              "label": "Gestion commerciale, relation clients"
+            },
+            {
+              "label": "Infogérance / télémaintenance"
+            },
+            {
+              "label": "Technologie de l'internet"
+            },
+            {
+              "label": "Technologies de l'accessibilité numérique"
+            },
+            {
+              "label": "Architecture réseau"
+            },
+            {
+              "label": "Progiciels de gestion intégrée d'entreprise (ERP)"
+            },
+            {
+              "label": "Progiciels industriels et techniques"
+            },
+            {
+              "label": "Progiciels spécifiques à la logistique"
+            }
+          ],
+          "label": "Domaines d'expertise"
+        },
+        {
+          "knowledges": [
+            {
+              "label": "Animation d'instances agiles (mêlée, démonstration, rétrospective, …)"
+            },
+            {
+              "label": "Externalisation des systèmes d'information"
+            },
+            {
+              "label": "Marketing / Mercatique"
+            },
+            {
+              "label": "Méthode AGILE"
+            },
+            {
+              "label": "Méthodes d'analyse (systémique, fonctionnelle, de risques, ...)"
+            },
+            {
+              "label": "Méthodologie SAFe"
+            },
+            {
+              "label": "Méthodologie Scrum"
+            },
+            {
+              "label": "Modélisation informatique"
+            },
+            {
+              "label": "Outils de planification des ressources humaines"
+            },
+            {
+              "label": "Procédures d'appels d'offres"
+            },
+            {
+              "label": "Procédures d'élaboration d'un plan de tests (étapes, scénarii...)"
+            },
+            {
+              "label": "Code des marchés publics"
+            },
+            {
+              "label": "Droit commercial"
+            },
+            {
+              "label": "Droit de la propriété intellectuelle"
+            },
+            {
+              "label": "Règlement Général européen sur la Protection des Données (RGPD)"
+            },
+            {
+              "label": "Règles de sécurité Informatique et Télécoms"
+            }
+          ],
+          "label": "Normes et procédés"
+        },
+        {
+          "knowledges": [
+            {
+              "label": "Réseaux informatiques et télécoms"
+            }
+          ],
+          "label": "Produits, outils et matières"
+        },
+        {
+          "knowledges": [
+            {
+              "label": "Techniques commerciales"
+            }
+          ],
+          "label": "Techniques professionnelles"
+        }
+      ],
+      "professionalSoftSkills": [
+        {
+          "label": "Travailler en équipe"
+        },
+        {
+          "label": "Faire preuve d'autonomie"
+        },
+        {
+          "label": "Faire preuve de rigueur et de précision"
+        }
+      ]
+    },
+    "workConditionsCategories": [
+      {
+        "label": "CONDITIONS_TRAVAIL",
+        "workConditions": [
+          {
+            "label": "Déplacements professionnels"
+          },
+          {
+            "label": "Possibilité de télétravail"
+          }
+        ]
+      },
+      {
+        "label": "HORAIRE_ET_DUREE_TRAVAIL",
+        "workConditions": [
+          {
+            "label": "Travail en astreinte"
+          },
+          {
+            "label": "Travail le week-end"
+          }
+        ]
+      }
+    ]
+  },
+  "M1805": {
+    "label": "Études et développement informatique",
+    "labourMarket": {
+      "jobOffers": 224810,
+      "jobSeekers": 48070
+    },
+    "mainName": "Développeur / Développeuse",
+    "metier": {
+      "accessText": "Ce métier est accessible avec un diplôme de niveau Bac+2 (BTS, DUT) à Master (MIAGE, diplôme d'ingénieur, Master professionnel, ...) en informatique.\\nIl est également accessible avec une expérience professionnelle en informatique, système d'exploitation ou dans un domaine applicatif.\\nLa pratique de l'anglais (vocabulaire technique) est requise.",
+      "appellations": [
+        {"code": "10933", "label": "Analyste cogniticien / cogniticienne informatique"},
+        {"code": "10935", "label": "Analyste d'application"},
+        {"code": "10944", "label": "Analyste développeur / développeuse"},
+        {"code": "10950", "label": "Analyste fonctionnel / fonctionnelle informatique"},
+        {"code": "10952", "label": "Analyste organique informatique"},
+        {"code": "10956", "label": "Analyste réseau informatique"},
+        {"code": "10957", "label": "Analyste responsable d'application informatique"},
+        {"code": "10959", "label": "Analyste télématique"},
+        {"code": "10960", "label": "Analyste-programmeur / Analyste-programmeuse de micro-informatique"},
+        {"code": "10961", "label": "Analyste-programmeur / Analyste-programmeuse d'étude informatique"},
+        {"code": "10962", "label": "Analyste-programmeur / Analyste-programmeuse en informatique industrielle"},
+        {"code": "10963", "label": "Analyste-programmeur / Analyste-programmeuse gestion informatique"},
+        {"code": "10964", "label": "Analyste-programmeur / Analyste-programmeuse informatique"},
+        {"code": "12168", "label": "Chef de groupe logicien informaticien"},
+        {"code": "12243", "label": "Chef de projet étude et développement informatique"},
+        {"code": "12814", "label": "Concepteur / Conceptrice d'application informatique"},
+        {"code": "12828", "label": "Concepteur / Conceptrice informatique"},
+        {"code": "12829", "label": "Concepteur / Conceptrice logiciel informatique"},
+        {"code": "14148", "label": "Développeur / Développeuse d'application"},
+        {"code": "14153", "label": "Développeur / Développeuse informatique"},
+        {"code": "14155", "label": "Développeur / Développeuse multimédia"},
+        {"code": "14156", "label": "Développeur / Développeuse web"},
+        {"code": "14167", "label": "Didacticien / Didacticienne informatique"},
+        {"code": "15753", "label": "Ingénieur / Ingénieure en développement d'applications"},
+        {"code": "15627", "label": "Ingénieur / Ingénieure d'application informatique"},
+        {"code": "15631", "label": "Ingénieur / Ingénieure de conception informatique"},
+        {"code": "15696", "label": "Ingénieur / Ingénieure d'étude en applications scientifiques informatiques"},
+        {"code": "15698", "label": "Ingénieur / Ingénieure d'étude et développement informatique"},
+        {"code": "15700", "label": "Ingénieur / Ingénieure d'étude logiciel informatique"},
+        {"code": "15714", "label": "Ingénieur / Ingénieure développement logiciel informatique"},
+        {"code": "15824", "label": "Ingénieur / Ingénieure informatique développement en temps réel"},
+        {"code": "15568", "label": "Informaticien / Informaticienne d'application"},
+        {"code": "15569", "label": "Informaticien / Informaticienne de développement"},
+        {"code": "15580", "label": "Ingénieur / Ingénieure analyste en système d'information"},
+        {"code": "15581", "label": "Ingénieur / Ingénieure analyste informatique"},
+        {"code": "15826", "label": "Ingénieur / Ingénieure logiciel informatique"},
+        {"code": "15867", "label": "Ingénieur / Ingénieure programme informatique"},
+        {"code": "17558", "label": "Paramétreur / Paramétreuse logiciel ERP"},
+        {"code": "18192", "label": "Programmeur / Programmeuse informatique"},
+        {"code": "18193", "label": "Programmeur / Programmeuse logiciel de base informatique"},
+        {"code": "18927", "label": "Responsable des développements informatiques"},
+        {"code": "18961", "label": "Responsable d'étude informatique"},
+        {"code": "18187", "label": "Programmeur / Programmeuse d'applications"},
+        {"code": "18189", "label": "Programmeur / Programmeuse d'études"},
+        {"code": "18191", "label": "Programmeur industriel / Programmeuse industrielle"},
+        {"code": "18625", "label": "Responsable d'application informatique"},
+        {"code": "18637", "label": "Responsable d'atelier de génie logiciel"},
+        {"code": "18719", "label": "Responsable de gestion de configuration"},
+        {"code": "20314", "label": "Testeur / Testeuse informatique"},
+        {"code": "140953", "label": "Développeur / Développeuse logiciel de réalité augmentée"},
+        {"code": "200027", "label": "Scrum Master"},
+        {"code": "15823", "label": "Ingénieur informaticien / Ingénieure informaticienne"},
+        {"code": "38661", "label": "Développeur / Développeuse décisionnel - Business Intelligence"},
+        {"code": "38715", "label": "Lead programmeur / programmeuse - jeux vidéo"},
+        {"code": "38716", "label": "Programmeur / Programmeuse - jeux vidéo"},
+        {"code": "200150", "label": "Développeur / Développeuse front-end"},
+        {"code": "38916", "label": "Développeur / Développeuse de sécurité des systèmes d'information"},
+        {"code": "15565", "label": "Informaticien / Informaticienne analyste"},
+        {"code": "15567", "label": "Informaticien chargé / Informaticienne chargée d'étude"},
+        {"code": "15582", "label": "Ingénieur analyste-programmeur / Ingénieure analyste-programmeuse"},
+        {"code": "15616", "label": "Ingénieur concepteur / Ingénieure conceptrice informatique"},
+        {"code": "38976", "label": "Développeur / Développeuse full-stack"},
+        {"code": "15624", "label": "Ingénieur / Ingénieure d'analyse et de programmation en informatique de gestion"},
+        {"code": "15635", "label": "Ingénieur / Ingénieure de développement informatique"},
+        {"code": "15665", "label": "Ingénieur / Ingénieure de réalisation informatique"},
+        {"code": "15697", "label": "Ingénieur / Ingénieure d'étude en informatique de gestion"},
+        {"code": "15699", "label": "Ingénieur / Ingénieure d'étude informatique"},
+        {"code": "15721", "label": "Ingénieur / Ingénieure d'intégration applicative"},
+        {"code": "38717", "label": "Développeur / Développeuse - jeux vidéo"},
+        {"code": "38745", "label": "Développeur / Développeuse web mobile"},
+        {"code": "38915", "label": "Analyste en cybersécurité"},
+        {"code": "16027", "label": "Intégrateur / Intégratrice d'application informatique"},
+        {"code": "18188", "label": "Programmeur / Programmeuse de maintenance informatique"},
+        {"code": "38977", "label": "Développeur / Développeuse Big Data"},
+        {"code": "140952", "label": "Développeur / Développeuse de logiciel de simulation optique et réalité virtuelle"},
+        {"code": "20728", "label": "Webmaster développeur / développeuse"},
+        {"code": "200151", "label": "Développeur / Développeuse back-end"},
+        {"code": "38061", "label": "Chef de projet TMA - Tierce Maintenance Applicative"},
+        {"code": "12250", "label": "Chef de projet maîtrise d'oeuvre informatique"},
+        {"code": "38062", "label": "Homologateur / Homologatrice logiciel"},
+        {"code": "10934", "label": "Analyste concepteur / conceptrice informatique"},
+        {"code": "10938", "label": "Analyste de gestion informatique"},
+        {"code": "10943", "label": "Analyste d'étude informatique"},
+        {"code": "38095", "label": "Analyste décisionnel - Business Intelligence"},
+        {"code": "20226", "label": "Technicien / Technicienne programmation"},
+        {"code": "10965", "label": "Analyste-programmeur / Analyste-programmeuse scientifique informatique"},
+        {"code": "18832", "label": "Responsable de projet informatique"},
+        {"code": "11205", "label": "Assistant / Assistante chef de projet informatique"}
+      ],
+      "description": "Conçoit, développe et met au point un projet d'application informatique, de la phase d'étude à son intégration, pour un client ou une entreprise selon des besoins fonctionnels et un cahier des charges.\\nPeut conduire des projets de développement.\\nPeut coordonner une équipe.",
+      "domain": {
+        "label": "Informatique, internet et télécommunication",
+        "labelUrl": "informatique-internet-et-telecommunication",
+        "meta": "Vous disposez d'une forte appétence pour le numérique et vous êtes à l'aise avec les nouvelles technologies ? Découvrez les métiers de l'informatique, d'internet et des télécoms et enclenchez votre reconversion professionnelle !",
+        "title": "Métiers de l'informatique, internet et télécommunication"
+      },
+      "label": "Études et développement informatique",
+      "mainName": "Développeur / Développeuse",
+      "romeCode": "M1805",
+      "videoUrl": "https://www.youtube.com/embed/RRDSl8OdVrU"
+    },
+    "relatedJobs": [
+      {
+        "label": "Conseil et maîtrise d'ouvrage en systèmes d'information",
+        "romeCode": "M1806"
+      },
+      {
+        "label": "Expertise et support en systèmes d'information",
+        "romeCode": "M1802"
+      },
+      {
+        "label": "Études et développement de réseaux de télécoms",
+        "romeCode": "M1804"
+      },
+      {
+        "label": "Direction des systèmes d'information",
+        "romeCode": "M1803"
+      },
+      {
+        "label": "Conception de produits touristiques",
+        "romeCode": "G1301"
+      }
+    ],
+    "romeCode": "M1805",
+    "skills": {
+      "domainsSkills": [
+        {
+          "label": "Communication, Création, Innovation, Nouvelles technologies",
+          "score": 49,
+          "stakes": [
+            {
+              "code": "8",
+              "hardSkills": [
+                {
+                  "label": "Communiquer à l'oral en langue étrangère"
+                },
+                {
+                  "label": "Communiquer à l'écrit en langue étrangère"
+                },
+                {
+                  "label": "Communiquer auprès de ses clients internes et externes"
+                }
+              ],
+              "label": "Communication, Multimédia"
+            },
+            {
+              "code": "10",
+              "hardSkills": [
+                {
+                  "label": "Structurer, synthétiser des informations"
+                },
+                {
+                  "label": "Analyser, exploiter, structurer des données"
+                },
+                {
+                  "label": "Créer une documentation technique"
+                },
+                {
+                  "label": "Rédiger un cahier des charges, des spécifications techniques"
+                }
+              ],
+              "label": "Traitement de l'information et des données"
+            },
+            {
+              "code": "11",
+              "hardSkills": [
+                {
+                  "label": "Réaliser des études et développements informatiques"
+                },
+                {
+                  "label": "Réaliser un prototype de la solution technique pour validation par le donneur d'ordres (configuration type, ...)"
+                },
+                {
+                  "label": "Concevoir et développer une solution digitale"
+                },
+                {
+                  "label": "Analyser les indicateurs pertinents sur les tendances et les usages des clients"
+                },
+                {
+                  "label": "Proposer des pistes d'amélioration des solutions"
+                },
+                {
+                  "label": "Réaliser des études d'organisation et d'évolution de systèmes d'information"
+                },
+                {
+                  "label": "Créer, élaborer et identifier des concepts innovants"
+                },
+                {
+                  "label": "Animer une démarche agile et innovante"
+                },
+                {
+                  "label": "Superviser et coordonner les réalisations, études ou développements informatiques (collaborateurs, sous-traitants)"
+                }
+              ],
+              "label": "Recherche, Innovation"
+            },
+            {
+              "code": "12",
+              "hardSkills": [
+                {
+                  "label": "Paramétrer un logiciel, un outil, un système numérique"
+                },
+                {
+                  "label": "Piloter des évolutions ou des paramétrages à apporter aux composants"
+                },
+                {
+                  "label": "Développer un logiciel, un système d'informations, une application"
+                },
+                {
+                  "label": "Assembler des composants logiciels"
+                },
+                {
+                  "label": "Coder"
+                },
+                {
+                  "label": "Concevoir une application web"
+                },
+                {
+                  "label": "Développer une application en lien avec une base de données"
+                },
+                {
+                  "label": "Vérifier la compatibilité des développements produits avec les spécifications"
+                },
+                {
+                  "label": "Gérer et déployer des logiciels à distance"
+                },
+                {
+                  "label": "Réaliser la mise en production de solutions logicielles dans un environnement d'exploitation"
+                },
+                {
+                  "label": "Sélectionner, assembler et intégrer des composants informatiques (progiciels, bases de données, développements spécifiques, ...)"
+                },
+                {
+                  "label": "Tester un logiciel, un système d'informations, une application"
+                },
+                {
+                  "label": "Mettre en place une blockchain (protocoles, consensus etc.)"
+                },
+                {
+                  "label": "Concevoir l'architecture d'un système, d'un réseau"
+                },
+                {
+                  "label": "Concevoir la cartographie fonctionnelle du SI"
+                },
+                {
+                  "label": "Intégrer des outils IA/Data Science"
+                }
+              ],
+              "label": "Nouvelles technologies"
+            }
+          ]
+        },
+        {
+          "label": "Production, Construction, Qualité, Logistique",
+          "score": 14,
+          "stakes": [
+            {
+              "code": "13",
+              "hardSkills": [
+                {
+                  "label": "Concevoir un équipement selon ses usages et contraintes"
+                }
+              ],
+              "label": "Conception"
+            },
+            {
+              "code": "17",
+              "hardSkills": [
+                {
+                  "label": "Réaliser un diagnostic technique"
+                }
+              ],
+              "label": "Maintenance, Réparation"
+            },
+            {
+              "code": "18",
+              "hardSkills": [
+                {
+                  "label": "Surveiller le fonctionnement d'applicatifs et logiciels"
+                },
+                {
+                  "label": "Concevoir et maintenir un système de cybersécurité"
+                },
+                {
+                  "label": "Gérer les risques de cybersécurité"
+                },
+                {
+                  "label": "Mener un processus de test en cybersécurité"
+                },
+                {
+                  "label": "Déterminer des mesures correctives"
+                },
+                {
+                  "label": "Gérer une situation d'urgence"
+                }
+              ],
+              "label": "Prévention des risques"
+            },
+            {
+              "code": "19",
+              "hardSkills": [
+                {
+                  "label": "Garantir le bon fonctionnement, la disponibilité et la performance d'une solution logicielle"
+                }
+              ],
+              "label": "Qualité"
+            }
+          ]
+        },
+        {
+          "label": "Collaboration, Management, Social, Soin",
+          "score": 13,
+          "stakes": [
+            {
+              "code": "1",
+              "hardSkills": [
+                {
+                  "label": "Promouvoir une proposition, un projet"
+                }
+              ],
+              "label": "Collaboration"
+            },
+            {
+              "code": "2",
+              "hardSkills": [
+                {
+                  "label": "Actualiser régulièrement ses connaissances"
+                }
+              ],
+              "label": "Apprentissage et professionnalisation"
+            },
+            {
+              "code": "3",
+              "hardSkills": [
+                {
+                  "label": "Préparer et animer une réunion, un groupe de travail, un atelier"
+                }
+              ],
+              "label": "Animation"
+            },
+            {
+              "code": "4",
+              "hardSkills": [
+                {
+                  "label": "Allouer et organiser les ressources d'un projet selon les besoins et contraintes"
+                }
+              ],
+              "label": "Management"
+            },
+            {
+              "code": "5",
+              "hardSkills": [
+                {
+                  "label": "Gérer les ressources humaines"
+                }
+              ],
+              "label": "Gestion des Ressources Humaines"
+            },
+            {
+              "code": "6",
+              "hardSkills": [
+                {
+                  "label": "Accompagner l'appropriation d'un outil par ses utilisateurs"
+                },
+                {
+                  "label": "Transmettre une technique, un savoir-faire"
+                },
+                {
+                  "label": "Enseigner, transmettre des connaissances, développer des compétences"
+                }
+              ],
+              "label": "Conseil, Transmission"
+            }
+          ]
+        },
+        {
+          "label": "Développement économique",
+          "score": 13,
+          "stakes": [
+            {
+              "code": "29",
+              "hardSkills": [
+                {
+                  "label": "Recueillir et analyser les besoins client"
+                },
+                {
+                  "label": "Identifier les besoins en logiciel"
+                }
+              ],
+              "label": "Relation client"
+            },
+            {
+              "code": "30",
+              "hardSkills": [
+                {
+                  "label": "Présenter et valoriser un produit ou un service"
+                },
+                {
+                  "label": "Comparer des solutions, produits ou matériels"
+                }
+              ],
+              "label": "Développement commercial"
+            },
+            {
+              "code": "31",
+              "hardSkills": [
+                {
+                  "label": "Piloter le déploiement et l'intégration d'outils d'optimisation au sein des processus métiers"
+                },
+                {
+                  "label": "Concevoir et gérer un projet"
+                },
+                {
+                  "label": "Planifier les étapes d'un projet"
+                },
+                {
+                  "label": "Piloter la gestion de la production, de l'exploitation"
+                }
+              ],
+              "label": "Stratégie de développement"
+            }
+          ]
+        },
+        {
+          "label": "Pilotage, Gestion, Cadre réglementaire",
+          "score": 11,
+          "stakes": [
+            {
+              "code": "23",
+              "hardSkills": [
+                {
+                  "label": "Respecter la confidentialité des informations"
+                }
+              ],
+              "label": "Gestion administrative"
+            },
+            {
+              "code": "24",
+              "hardSkills": [
+                {
+                  "label": "Identifier et sélectionner des fournisseurs, sous-traitants, prestataires"
+                },
+                {
+                  "label": "Lancer et gérer un appel d'offres"
+                },
+                {
+                  "label": "Contrôler la réalisation et les coûts d’une prestation "
+                },
+                {
+                  "label": "Élaborer une stratégie d'achat, optimiser la procédure d'achat"
+                }
+              ],
+              "label": "Pilotage et maîtrise des coûts"
+            },
+            {
+              "code": "26",
+              "hardSkills": [
+                {
+                  "label": "Négocier un contrat"
+                }
+              ],
+              "label": "Droit, contentieux et négociation"
+            },
+            {
+              "code": "27",
+              "hardSkills": [
+                {
+                  "label": "Évaluer une situation à risque"
+                }
+              ],
+              "label": "Protection des personnes et de l'environnement"
+            }
+          ]
+        }
+      ],
+      "knowledgeCategories": [
+        {
+          "knowledges": [
+            {"label": "Ada"},
+            {"label": "Algorithmique"},
+            {"label": "Apache"},
+            {"label": "ASP.NET"},
+            {"label": "AutoItScript"},
+            {"label": "Basic"},
+            {"label": "C#"},
+            {"label": "C/C++"},
+            {"label": "Cobol"},
+            {"label": "CSS"},
+            {"label": "Delphi"},
+            {"label": "Fortran"},
+            {"label": "HTML"},
+            {"label": "Java"},
+            {"label": "J2EE"},
+            {"label": "J2ME"},
+            {"label": "Langages de programmation informatique"},
+            {"label": "Lisp"},
+            {"label": "Pascal"},
+            {"label": "Perl"},
+            {"label": "PHP"},
+            {"label": "Prolog"},
+            {"label": "Python"},
+            {"label": "Ruby"},
+            {"label": "Script Shell"},
+            {"label": "SQL"},
+            {"label": "VB.NET"},
+            {"label": "Visual Basic"},
+            {"label": "WLangage"},
+            {"label": "XML"},
+            {"label": "Application web"},
+            {"label": "Architecture propriétaire"},
+            {"label": "Architecture web"},
+            {"label": "Business Intelligence (BI) / Informatique décisionnelle"},
+            {"label": "Informatique de gestion"},
+            {"label": "Informatique scientifique et technique"},
+            {"label": "Progiciels de gestion intégrée d'entreprise (ERP)"},
+            {"label": "Programmation logicielle"},
+            {"label": "Publication Assistée par Ordinateur (PAO)"},
+            {"label": "Système embarqué"},
+            {"label": "Systèmes d'exploitation informatique"},
+            {"label": "Comptabilité générale"},
+            {"label": "Finance"},
+            {"label": "Gestion commerciale, relation clients"},
+            {"label": "Gestion de configuration"},
+            {"label": "Informatique industrielle"},
+            {"label": "Technologies de l'accessibilité numérique"},
+            {"label": "Anglais technique"}
+          ],
+          "label": "Domaines d'expertise"
+        },
+        {
+          "knowledges": [
+            {"label": "Animation d'instances agiles (mêlée, démonstration, rétrospective, …)"},
+            {"label": "Formalisation de processus de gestion"},
+            {"label": "Marketing / Mercatique"},
+            {"label": "Méthode AGILE"},
+            {"label": "Méthodologie SAFe"},
+            {"label": "Méthodologie Scrum"},
+            {"label": "Modélisation informatique"},
+            {"label": "Principes d'intégration de matériels et de logiciels"},
+            {"label": "Procédures d'appels d'offres"},
+            {"label": "Protocoles et normes télécoms"},
+            {"label": "Urbanisation des systèmes d'information"},
+            {"label": "Règles de sécurité Informatique et Télécoms"},
+            {"label": "Système KANBAN"},
+            {"label": "Système LEAN"}
+          ],
+          "label": "Normes et procédés"
+        },
+        {
+          "knowledges": [
+            {"label": "Matériel de contrôle embarqué"},
+            {"label": "Réseaux informatiques et télécoms"},
+            {"label": "Produits multimédias"}
+          ],
+          "label": "Produits, outils et matières"
+        }
+      ],
+      "professionalSoftSkills": [
+        {"label": "Travailler en équipe"},
+        {"label": "Faire preuve d'autonomie"},
+        {"label": "Faire preuve de rigueur et de précision"},
+        {"label": "Faire preuve de créativité, d'inventivité"}
+      ]
+    },
+    "workConditionsCategories": [
+      {
+        "label": "CONDITIONS_TRAVAIL",
+        "workConditions": [
+          {
+            "label": "Déplacements professionnels"
+          },
+          {
+            "label": "Possibilité de télétravail"
+          }
+        ]
+      },
+      {
+        "label": "HORAIRE_ET_DUREE_TRAVAIL",
+        "workConditions": [
+          {
+            "label": "Travail en astreinte"
+          },
+          {
+            "label": "Travail le week-end"
+          }
+        ]
+      }
+    ]
+  },
+  "M1807": {
+    "label": "Exploitation de systèmes de communication et de commandement",
+    "labourMarket": {
+      "jobOffers": 2310,
+      "jobSeekers": 250
+    },
+    "mainName": "Opérateur / Opératrice télécom aux armées",
+    "metier": {
+      "accessText": "Ce métier est accessible avec un CAP/BEP en électronique.\\nUne formation militaire et des qualifications sont délivrées en structures militaires.\\nLa pratique d'une langue étrangère, en particulier l'anglais, peut être requise.",
+      "appellations": [
+        {
+          "code": "10286",
+          "label": "Adjoint / Adjointe chef de centre de télétraitement mobile aux armées"
+        },
+        {
+          "code": "10941",
+          "label": "Analyste de signaux électromagnétiques"
+        },
+        {
+          "code": "10942",
+          "label": "Analyste des services techniques du renseignement"
+        },
+        {
+          "code": "14140",
+          "label": "Technicien détecteur / Technicienne détectrice spécialiste des opérations des forces navales et sous-marines"
+        },
+        {
+          "code": "14141",
+          "label": "Technicien détecteur / Technicienne détectrice anti-sous-marins spécialiste des opérations des forces navales et sous-marines"
+        },
+        {
+          "code": "15004",
+          "label": "Exploitant / Exploitante des supports hertziens radio satellitaire"
+        },
+        {
+          "code": "15006",
+          "label": "Exploitant / Exploitante des télécommunications"
+        },
+        {
+          "code": "15009",
+          "label": "Exploitant / Exploitante faisceaux hertziens"
+        },
+        {
+          "code": "15015",
+          "label": "Exploitant / Exploitante système d'information et de communication aux armées"
+        },
+        {
+          "code": "15016",
+          "label": "Exploitant / Exploitante système composante projetable"
+        },
+        {
+          "code": "15017",
+          "label": "Exploitant / Exploitante transmissions"
+        },
+        {
+          "code": "15435",
+          "label": "Guetteur / Guetteuse de la flotte"
+        },
+        {
+          "code": "16038",
+          "label": "Intercepteur / Interceptrice graphie aux armées"
+        },
+        {
+          "code": "16040",
+          "label": "Intercepteur traducteur / Interceptrice traductrice de langues aux armées"
+        },
+        {
+          "code": "16197",
+          "label": "Linguiste d'écoute aux armées"
+        },
+        {
+          "code": "17263",
+          "label": "Opérateur / Opératrice radio"
+        },
+        {
+          "code": "17264",
+          "label": "Opérateur / Opératrice radiographiste"
+        },
+        {
+          "code": "17194",
+          "label": "Opérateur / Opératrice écoute"
+        },
+        {
+          "code": "18273",
+          "label": "Radiotélégraphiste"
+        },
+        {
+          "code": "19696",
+          "label": "Technicien / Technicienne communication aux armées"
+        },
+        {
+          "code": "20142",
+          "label": "Technicien exploitant / Technicienne exploitante de systèmes de guerre électronique"
+        },
+        {
+          "code": "20144",
+          "label": "Technicien / Technicienne exploitation systèmes acoustiques"
+        },
+        {
+          "code": "19958",
+          "label": "Technicien / Technicienne détection et analyse des signaux électromagnétiques"
+        },
+        {
+          "code": "20265",
+          "label": "Technicien supérieur / Technicienne supérieure détection électromagnétique sol-air aux armées"
+        },
+        {
+          "code": "20425",
+          "label": "Transmetteur / Transmettrice aux armées"
+        },
+        {
+          "code": "20044",
+          "label": "Technicien / Technicienne en communication"
+        },
+        {
+          "code": "17339",
+          "label": "Opérateur / Opératrice système qualifié aux armées"
+        },
+        {
+          "code": "17243",
+          "label": "Opérateur navigateur / Opératrice navigatrice terrestre aux armées"
+        },
+        {
+          "code": "38516",
+          "label": "Opérateur / Opératrice des systèmes de combat en opérations navales"
+        },
+        {
+          "code": "16039",
+          "label": "Intercepteur / Interceptrice technique aux armées"
+        },
+        {
+          "code": "20250",
+          "label": "Technicien / Technicienne sécurité des communications aux armées"
+        },
+        {
+          "code": "19511",
+          "label": "Technicien / Technicienne des systèmes d'information et de télécommunications"
+        },
+        {
+          "code": "10708",
+          "label": "Agent / Agente d'exploitation des systèmes d'information et de communication aux armées"
+        },
+        {
+          "code": "19983",
+          "label": "Technicien / Technicienne d'exploitation télécommunication"
+        },
+        {
+          "code": "20423",
+          "label": "Transfiliste aux armées"
+        },
+        {
+          "code": "20240",
+          "label": "Technicien / Technicienne réseau de transmission de données aux armées"
+        },
+        {
+          "code": "15005",
+          "label": "Exploitant / Exploitante des systèmes de guerre électronique"
+        },
+        {
+          "code": "38515",
+          "label": "Opérateur / Opératrice de surveillance de la circulation maritime"
+        }
+      ],
+      "description": "Surveille, met en oeuvre, sécurise les systèmes d'information et de communication et réalise le traitement des informations, provenant de données et capteurs d'informations selon les règles de la structure.\\nPeut diriger une équipe.",
+      "domain": {
+        "label": "Informatique, internet et télécommunication",
+        "labelUrl": "informatique-internet-et-telecommunication",
+        "meta": "Vous disposez d'une forte appétence pour le numérique et vous êtes à l'aise avec les nouvelles technologies ? Découvrez les métiers de l'informatique, d'internet et des télécoms et enclenchez votre reconversion professionnelle !",
+        "title": "Métiers de l'informatique, internet et télécommunication"
+      },
+      "label": "Exploitation de systèmes de communication et de commandement",
+      "mainName": "Opérateur / Opératrice télécom aux armées",
+      "romeCode": "M1807",
+      "videoUrl": "https://www.youtube.com/embed/CDcxUcHD0hE"
+    },
+    "relatedJobs": [
+      {
+        "label": "Direction opérationnelle de la défense",
+        "romeCode": "K1703"
+      },
+      {
+        "label": "Accueil et renseignements",
+        "romeCode": "M1601"
+      },
+      {
+        "label": "Opérations administratives",
+        "romeCode": "M1602"
+      },
+      {
+        "label": "Production et exploitation de systèmes d'information",
+        "romeCode": "M1810"
+      },
+      {
+        "label": "Conseil en information médicale",
+        "romeCode": "D1405"
+      }
+    ],
+    "romeCode": "M1807",
+    "skills": {
+      "domainsSkills": [
+        {
+          "label": "Communication, Création, Innovation, Nouvelles technologies",
+          "score": 32,
+          "stakes": [
+            {
+              "code": "8",
+              "hardSkills": [
+                {
+                  "label": "Communiquer à l'oral en langue étrangère"
+                },
+                {
+                  "label": "Communiquer à l'écrit en langue étrangère"
+                }
+              ],
+              "label": "Communication, Multimédia"
+            },
+            {
+              "code": "10",
+              "hardSkills": [
+                {
+                  "label": "Structurer, synthétiser des informations"
+                },
+                {
+                  "label": "Traiter et transmettre des informations chiffrées ou codées"
+                },
+                {
+                  "label": "Utiliser les outils bureautiques"
+                },
+                {
+                  "label": "Analyser un signal"
+                },
+                {
+                  "label": "Recueillir et qualifier les données, signaux, mesures, images, transmis ou émis"
+                }
+              ],
+              "label": "Traitement de l'information et des données"
+            }
+          ]
+        },
+        {
+          "label": "Production, Construction, Qualité, Logistique",
+          "score": 27,
+          "stakes": [
+            {
+              "code": "13",
+              "hardSkills": [
+                {
+                  "label": "Définir (conditionnement, logistique, ...) ou monter des équipements, des systèmes et des vecteurs d'information"
+                }
+              ],
+              "label": "Conception"
+            },
+            {
+              "code": "18",
+              "hardSkills": [
+                {
+                  "label": "Contrôler le fonctionnement des équipements, des systèmes et vecteurs d'information"
+                },
+                {
+                  "label": "Contrôler une opération de maintenance"
+                },
+                {
+                  "label": "Planifier des interventions de maintenance"
+                },
+                {
+                  "label": "Déterminer des mesures correctives"
+                }
+              ],
+              "label": "Prévention des risques"
+            },
+            {
+              "code": "21",
+              "hardSkills": [
+                {
+                  "label": "Aménager et implanter sur zone du matériel et des dispositifs de combat, de défense ou de protection"
+                }
+              ],
+              "label": "Logistique"
+            }
+          ]
+        },
+        {
+          "label": "Pilotage, Gestion, Cadre réglementaire",
+          "score": 23,
+          "stakes": [
+            {
+              "code": "26",
+              "hardSkills": [
+                {
+                  "label": "Contrôler et faire appliquer le respect de dispositions légales et réglementaires"
+                }
+              ],
+              "label": "Droit, contentieux et négociation"
+            },
+            {
+              "code": "27",
+              "hardSkills": [
+                {
+                  "label": "Coordonner des moyens opérationnels militaires"
+                },
+                {
+                  "label": "Diriger des actions militaires"
+                },
+                {
+                  "label": "Surveiller des zones terrestres, maritimes, aériennes et orienter des interventions ou des opérations de recherche, d'assistance, de secours"
+                },
+                {
+                  "label": "Surveiller et analyser des communications et des émissions"
+                }
+              ],
+              "label": "Protection des personnes et de l'environnement"
+            }
+          ]
+        },
+        {
+          "label": "Collaboration, Management, Social, Soin",
+          "score": 9,
+          "stakes": [
+            {
+              "code": "4",
+              "hardSkills": [
+                {
+                  "label": "Animer, coordonner une équipe"
+                }
+              ],
+              "label": "Management"
+            },
+            {
+              "code": "6",
+              "hardSkills": [
+                {
+                  "label": "Transmettre une technique, un savoir-faire"
+                }
+              ],
+              "label": "Conseil, Transmission"
+            }
+          ]
+        },
+        {
+          "label": "Développement économique",
+          "score": 9,
+          "stakes": [
+            {
+              "code": "29",
+              "hardSkills": [
+                {
+                  "label": "Renseigner les personnels, le commandement, les institutionnels, ... sur les interventions et les évolutions de la situation"
+                }
+              ],
+              "label": "Relation client"
+            },
+            {
+              "code": "31",
+              "hardSkills": [
+                {
+                  "label": "Contrôler des indicateurs de performance, analyser et corriger des écarts"
+                }
+              ],
+              "label": "Stratégie de développement"
+            }
+          ]
+        }
+      ],
+      "knowledgeCategories": [
+        {
+          "knowledges": [
+            {
+              "label": "Électromécanique"
+            },
+            {
+              "label": "Électronique"
+            },
+            {
+              "label": "Génie civil"
+            },
+            {
+              "label": "Optronique"
+            },
+            {
+              "label": "Informations chiffrées ou codées"
+            },
+            {
+              "label": "Système d'information et de communication"
+            },
+            {
+              "label": "Signal électromagnétique"
+            },
+            {
+              "label": "Signal acoustique"
+            }
+          ],
+          "label": "Domaines d'expertise"
+        },
+        {
+          "knowledges": [
+            {
+              "label": "Méthode de classement et d'archivage"
+            },
+            {
+              "label": "Règles de sécurité Informatique et Télécoms"
+            }
+          ],
+          "label": "Normes et procédés"
+        },
+        {
+          "knowledges": [
+            {
+              "label": "Audiovisuel électronique"
+            }
+          ],
+          "label": "Produits, outils et matières"
+        },
+        {
+          "knowledges": [
+            {
+              "label": "Techniques de communication orales, écrites et numériques"
+            },
+            {
+              "label": "Techniques de renseignement"
+            },
+            {
+              "label": "Techniques pédagogiques"
+            }
+          ],
+          "label": "Techniques professionnelles"
+        }
+      ],
+      "professionalSoftSkills": [
+        {
+          "label": "Être à l'écoute, faire preuve d'empathie"
+        },
+        {
+          "label": "Travailler en équipe"
+        },
+        {
+          "label": "Faire preuve de rigueur et de précision"
+        }
+      ]
+    },
+    "workConditionsCategories": [
+      {
+        "label": "CONDITIONS_TRAVAIL",
+        "workConditions": [
+          {
+            "label": "Déplacements professionnels"
+          },
+          {
+            "label": "En milieu marin"
+          },
+          {
+            "label": "Port d'équipement de protection (EPI, casque…)"
+          },
+          {
+            "label": "Port de tenue professionnelle ou d'uniforme"
+          }
+        ]
+      },
+      {
+        "label": "HORAIRE_ET_DUREE_TRAVAIL",
+        "workConditions": [
+          {
+            "label": "Travail de nuit"
+          },
+          {
+            "label": "Travail en astreinte"
+          },
+          {
+            "label": "Travail le week-end"
+          }
+        ]
+      }
+    ]
+  },
+  "M1808": {
+    "label": "Information géographique",
+    "labourMarket": {
+      "jobOffers": 3110,
+      "jobSeekers": 1130
+    },
+    "mainName": "Cartographe",
+    "metier": {
+      "accessText": "Ce métier est accessible avec un diplôme de niveau Bac+2 (BTS, DUT) ou Bac+3 (Licence, Licence professionnelle, ...) en cartographie, topographie, hydrographie, aménagement du territoire et urbanisme, ...\\nUn Master (Master professionnel, Grandes Ecoles, ...) en géographie, sciences de la vie et de la terre, urbanisme, ... peut être demandé selon le niveau de technicité requis par le secteur d'activité.\\nLa maîtrise de l'outil informatique (logiciel de modélisation, bases de données géo référencées, ...) est requise.",
+      "appellations": [
+        {
+          "code": "10317",
+          "label": "Administrateur / Administratrice Systèmes d'Information Géographique -SIG-"
+        },
+        {
+          "code": "11176",
+          "label": "Assembleur / Assembleuse photogrammètre cartographe"
+        },
+        {
+          "code": "11704",
+          "label": "Cartographe"
+        },
+        {
+          "code": "11705",
+          "label": "Cartographe géomaticien / géomaticienne"
+        },
+        {
+          "code": "11893",
+          "label": "Chargé / Chargée d'études Systèmes d'Information Géographique -SIG-"
+        },
+        {
+          "code": "12566",
+          "label": "Chef exploitation images drones"
+        },
+        {
+          "code": "12567",
+          "label": "Chef géographe"
+        },
+        {
+          "code": "12240",
+          "label": "Chef de projet en géomatique"
+        },
+        {
+          "code": "12840",
+          "label": "Concepteur-analyste / Conceptrice-analyste en systèmes d'information géographique -SIG-"
+        },
+        {
+          "code": "13425",
+          "label": "Conseiller / Conseillère en géomatique"
+        },
+        {
+          "code": "14014",
+          "label": "Dessinateur / Dessinatrice cartographe"
+        },
+        {
+          "code": "15253",
+          "label": "Géographe-géomaticien / Géographe-géomaticienne"
+        },
+        {
+          "code": "15261",
+          "label": "Géomaticien / Géomaticienne"
+        },
+        {
+          "code": "15374",
+          "label": "Gestionnaire Systèmes d'Information Géographique -SIG-"
+        },
+        {
+          "code": "15504",
+          "label": "Hydrographe"
+        },
+        {
+          "code": "16041",
+          "label": "Interprétateur / Interprétatrice d'images géographiques"
+        },
+        {
+          "code": "15895",
+          "label": "Ingénieur / Ingénieure Systèmes d'Information Géographique -SIG"
+        },
+        {
+          "code": "17013",
+          "label": "Officier / Officière cartographe"
+        },
+        {
+          "code": "17028",
+          "label": "Officier / Officière géographe"
+        },
+        {
+          "code": "19196",
+          "label": "Responsable Système d'Information Géographique -SIG-"
+        },
+        {
+          "code": "20159",
+          "label": "Technicien géomaticien / Technicienne géomaticienne"
+        },
+        {
+          "code": "19501",
+          "label": "Spécialiste de l'information géographique"
+        },
+        {
+          "code": "19507",
+          "label": "Spécialiste en géodésie et satellites"
+        },
+        {
+          "code": "20280",
+          "label": "Technicien / Technicienne Systèmes d'Information Géographique -SIG-"
+        },
+        {
+          "code": "15819",
+          "label": "Ingénieur / Ingénieure hydrographe"
+        },
+        {
+          "code": "10300",
+          "label": "Administrateur / Administratrice bases de données géographiques"
+        },
+        {
+          "code": "17032",
+          "label": "Officier marinier / Officière marinière hydrographe"
+        },
+        {
+          "code": "17233",
+          "label": "Opérateur / Opératrice géographe"
+        },
+        {
+          "code": "12068",
+          "label": "Chef de batterie géographie"
+        },
+        {
+          "code": "16042",
+          "label": "Interprétateur / Interprétatrice d'images photographiques"
+        },
+        {
+          "code": "20245",
+          "label": "Technicien restituteur / Technicienne restitutrice photogrammètre"
+        },
+        {
+          "code": "10946",
+          "label": "Analyste en géomatique"
+        }
+      ],
+      "description": "Exploite et produit des données d'informations géographiques, géo localisées et de cartographies thématiques à destination de clients, usagers (partenaires, entreprises, publics, ...).\\nPeut développer et exploiter un Système d'Information Géographique -SIG-.\\nPeut diriger un projet et coordonner une équipe.",
+      "domain": {
+        "label": "Recherche",
+        "labelUrl": "recherche",
+        "meta": "Vous êtes curieux / curieuse et avez une soif insatiable de connaissance ? Découvrez les métiers de la recherche et enclenchez votre reconversion professionnelle !",
+        "title": "Métiers de la recherche"
+      },
+      "label": "Information géographique",
+      "mainName": "Cartographe",
+      "romeCode": "M1808",
+      "videoUrl": "https://www.youtube.com/embed/i2VzA7URemg"
+    },
+    "relatedJobs": [
+      {
+        "label": "Direction des achats",
+        "romeCode": "M1102"
+      },
+      {
+        "label": "Achats",
+        "romeCode": "M1101"
+      },
+      {
+        "label": "Relation technico-commerciale",
+        "romeCode": "D1407"
+      },
+      {
+        "label": "Conception et dessin de produits électriques et électroniques",
+        "romeCode": "H1202"
+      },
+      {
+        "label": "Management et gestion de produit",
+        "romeCode": "M1703"
+      }
+    ],
+    "romeCode": "M1808",
+    "skills": {
+      "domainsSkills": [
+        {
+          "label": "Communication, Création, Innovation, Nouvelles technologies",
+          "score": 54,
+          "stakes": [
+            {
+              "code": "8",
+              "hardSkills": [
+                {
+                  "label": "Communiquer auprès de ses clients internes et externes"
+                }
+              ],
+              "label": "Communication, Multimédia"
+            },
+            {
+              "code": "10",
+              "hardSkills": [
+                {
+                  "label": "Restituer et mettre en forme les données géographiques pour l'édition cartographique"
+                },
+                {
+                  "label": "Intégrer la maquette numérique"
+                },
+                {
+                  "label": "Utiliser les outils bureautiques"
+                },
+                {
+                  "label": "Formaliser des données cartographiques et les diffuser sur des réseaux d'information"
+                },
+                {
+                  "label": "Identifier et interpréter les données et caractéristiques géographiques et analyser les résultats"
+                },
+                {
+                  "label": "Restituer des informations géographiques par une cartographie à thèmes"
+                },
+                {
+                  "label": "Sélectionner, traiter et réaliser l'analyse spatiale de données géographiques"
+                },
+                {
+                  "label": "Sélectionner une gamme de données géoréférencées ciblées"
+                },
+                {
+                  "label": "Créer une documentation technique"
+                },
+                {
+                  "label": "Rédiger un cahier des charges, des spécifications techniques"
+                }
+              ],
+              "label": "Traitement de l'information et des données"
+            },
+            {
+              "code": "11",
+              "hardSkills": [
+                {
+                  "label": "Réaliser une étude d'opportunité et de faisabilité technique et économique"
+                }
+              ],
+              "label": "Recherche, Innovation"
+            },
+            {
+              "code": "12",
+              "hardSkills": [
+                {
+                  "label": "Développer et administrer une base de données géographiques (catalogues de données, de métadonnées)"
+                }
+              ],
+              "label": "Nouvelles technologies"
+            }
+          ]
+        },
+        {
+          "label": "Développement économique",
+          "score": 21,
+          "stakes": [
+            {
+              "code": "29",
+              "hardSkills": [
+                {
+                  "label": "Proposer des solutions techniques à un client"
+                },
+                {
+                  "label": "Recueillir et analyser les besoins client"
+                },
+                {
+                  "label": "Apporter une assistance technique"
+                }
+              ],
+              "label": "Relation client"
+            },
+            {
+              "code": "31",
+              "hardSkills": [
+                {
+                  "label": "Concevoir et gérer un projet"
+                },
+                {
+                  "label": "Coordonner et contrôler la réalisation d'un projet de développement informatique"
+                }
+              ],
+              "label": "Stratégie de développement"
+            }
+          ]
+        },
+        {
+          "label": "Pilotage, Gestion, Cadre réglementaire",
+          "score": 17,
+          "stakes": [
+            {
+              "code": "24",
+              "hardSkills": [
+                {
+                  "label": "Identifier et sélectionner des fournisseurs, sous-traitants, prestataires"
+                },
+                {
+                  "label": "Analyser une réponse à un appel d'offres"
+                },
+                {
+                  "label": "Contrôler la réalisation et les coûts d’une prestation "
+                }
+              ],
+              "label": "Pilotage et maîtrise des coûts"
+            },
+            {
+              "code": "26",
+              "hardSkills": [
+                {
+                  "label": "Négocier un contrat"
+                }
+              ],
+              "label": "Droit, contentieux et négociation"
+            }
+          ]
+        },
+        {
+          "label": "Collaboration, Management, Social, Soin",
+          "score": 4,
+          "stakes": [
+            {
+              "code": "4",
+              "hardSkills": [
+                {
+                  "label": "Animer, coordonner une équipe"
+                }
+              ],
+              "label": "Management"
+            }
+          ]
+        },
+        {
+          "label": "Production, Construction, Qualité, Logistique",
+          "score": 4,
+          "stakes": [
+            {
+              "code": "14",
+              "hardSkills": [
+                {
+                  "label": "Réaliser les relevés terrain et collecter des données alphanumériques et graphiques"
+                }
+              ],
+              "label": "Production, Fabrication"
+            }
+          ]
+        }
+      ],
+      "knowledgeCategories": [
+        {
+          "knowledges": [
+            {
+              "label": "Analyse statistique"
+            },
+            {
+              "label": "Géodésie"
+            },
+            {
+              "label": "Histoire-Géographie"
+            },
+            {
+              "label": "Hydrographie"
+            },
+            {
+              "label": "Océanographie"
+            },
+            {
+              "label": "Photogrammétrie"
+            },
+            {
+              "label": "Topographie"
+            },
+            {
+              "label": "Logiciel de cartographie"
+            },
+            {
+              "label": "Logiciel de statistiques"
+            },
+            {
+              "label": "Système d'Information Géographique (SIG)"
+            },
+            {
+              "label": "Langages de programmation informatique"
+            }
+          ],
+          "label": "Domaines d'expertise"
+        },
+        {
+          "knowledges": [
+            {
+              "label": "Documents nautiques et océanographiques (cartes marines, bases de données) à partir de paramètres métrologiques (marées, courants, profondeur, température, ...)"
+            },
+            {
+              "label": "Données géoréférencées"
+            },
+            {
+              "label": "Modélisation mathématique"
+            },
+            {
+              "label": "Procédures d'appels d'offres"
+            },
+            {
+              "label": "Droit de la propriété intellectuelle"
+            }
+          ],
+          "label": "Normes et procédés"
+        },
+        {
+          "knowledges": [
+            {
+              "label": "Utilisation d'appareils de mesure topographique"
+            }
+          ],
+          "label": "Produits, outils et matières"
+        },
+        {
+          "knowledges": [
+            {
+              "label": "Techniques d'infographie"
+            }
+          ],
+          "label": "Techniques professionnelles"
+        }
+      ],
+      "professionalSoftSkills": [
+        {
+          "label": "Travailler en équipe"
+        },
+        {
+          "label": "Faire preuve d'autonomie"
+        },
+        {
+          "label": "Faire preuve de rigueur et de précision"
+        }
+      ]
+    },
+    "workConditionsCategories": [
+      {
+        "label": "CONDITIONS_TRAVAIL",
+        "workConditions": [
+          {
+            "label": "Déplacements professionnels"
+          }
+        ]
+      },
+      {
+        "label": "HORAIRE_ET_DUREE_TRAVAIL",
+        "workConditions": [
+          {
+            "label": "Travail de nuit"
+          },
+          {
+            "label": "Travail en astreinte"
+          },
+          {
+            "label": "Travail le week-end"
+          }
+        ]
+      }
+    ]
+  }  
+}

@@ -1,0 +1,5 @@
+flask~=2.2.0
+flask_cors
+spacy~=3.6.1
+requests~=2.31.0
+unidecode
